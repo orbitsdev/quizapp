@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body:const Text("googlemap")
+      body:const Text("googlmap")
     );
   }
 }
